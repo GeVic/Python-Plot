@@ -11,4 +11,13 @@ data visualozation.
 
 ### Requirements
 - Pre-installed python 3.+
-- 
+- Pygame library
+- Tkinter
+- Matplotlib
+- Numpy
+
+### Steps to install required libraries in windows
+
+- Add python to your **path enviroment variable**
+- Open cmd
+- Use **"pip install "** + package name you wants to install
